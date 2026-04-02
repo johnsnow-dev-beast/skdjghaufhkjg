@@ -15,7 +15,7 @@ module.exports = {
     newsletterJid: '120363427374371915@newsletter', // Newsletter JID for menu forwarding
     
     // Sticker Configuration
-    packname: 'Tech Zone',
+    packname: 'FAST',
     
     // Bot Behavior
     selfMode: false, // Private mode - only owner can use commands
